@@ -79,7 +79,7 @@ a,b,c
 
 #### <span id="jump2.4">2.4. 比较运算符</span>
 
-<img src="C:\Users\13398\Desktop\比较运算符.png" alt="比较运算符" style="zoom:67%;" />
+<img src=".\比较运算符.png" alt="比较运算符" style="zoom:67%;" />
 
 #### <span id="jump2.5">2.5. 逻辑运算符</span>
 
