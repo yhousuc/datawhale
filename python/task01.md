@@ -67,15 +67,15 @@ a,b,c
 
 #### <span id="jump2.1">2.1. 算数运算符</span>
 
-<img src="C:\Users\13398\Desktop\1.png" alt="1" style="zoom:67%;" />
+<img src=".\1.png" alt="1" style="zoom:67%;" />
 
 #### <span id="jump2.2">2.2. 比较运算符</span>
 
-<img src="C:\Users\13398\Desktop\比较运算符.png" alt="比较运算符" style="zoom:67%;" />
+<img src=".\比较运算符.png" alt="比较运算符" style="zoom:67%;" />
 
 #### <span id="jump2.3">2.3. 赋值运算符</span>
 
-<img src="C:\Users\13398\Desktop\赋值运算符.png" alt="赋值运算符" style="zoom:67%;" />
+<img src=".\赋值运算符.png" alt="赋值运算符" style="zoom:67%;" />
 
 #### <span id="jump2.4">2.4. 比较运算符</span>
 
@@ -83,7 +83,7 @@ a,b,c
 
 #### <span id="jump2.5">2.5. 逻辑运算符</span>
 
-<img src="C:\Users\13398\Desktop\逻辑运算符.png" alt="逻辑运算符" style="zoom:67%;" />
+<img src=".\逻辑运算符.png" alt="逻辑运算符" style="zoom:67%;" />
 
 
 
@@ -103,7 +103,7 @@ x, y, z, not x, not(not x)
 
 #### 2.6. 位运算符
 
-<img src="C:\Users\13398\Desktop\位运算符.png" alt="位运算符" style="zoom:67%;" />
+<img src=".\位运算符.png" alt="位运算符" style="zoom:67%;" />
 
 <br>
 Python 中的整数本来就是以二进制形式存在的，下面的小例子可以说明：
@@ -137,7 +137,7 @@ a << 1, a >> 1 # 左移1位等价于2倍， 右移1位等于除以2
 
 #### 2.7. 成员运算符
 
-<img src="C:\Users\13398\Desktop\成员运算符.png" alt="成员运算符" style="zoom:67%;" />
+<img src=".\成员运算符.png" alt="成员运算符" style="zoom:67%;" />
 
 
 ```python
@@ -169,7 +169,7 @@ else:
 
 #### 2.8. 身份运算符
 
-<img src="C:\Users\13398\Desktop\身份运算符.png" alt="身份运算符" style="zoom:67%;" />
+<img src=".\身份运算符.png" alt="身份运算符" style="zoom:67%;" />
 
 >Note: id() 函数用于获取对象内存地址
 
@@ -187,7 +187,7 @@ if(a == b and id(a) == id(b) and a is not c):
 
 #### 2.9. 运算符优先级
 
-<img src="C:\Users\13398\Desktop\运算符优先级.png" alt="运算符优先级" style="zoom:67%;" />
+<img src=".\运算符优先级.png" alt="运算符优先级" style="zoom:67%;" />
 
 - and 拥有更高优先级
 
@@ -371,7 +371,7 @@ set1
 
 #### 3.7 数据类型转换
 
-![数据类型转换](C:\Users\13398\Desktop\数据类型转换.png)
+![数据类型转换](.\数据类型转换.png)
 
 
 
